@@ -3,7 +3,7 @@ import "./Card.css";
 
 class Card extends Component {
   render() {
-    console.log(this.props.monsters)
+    // console.log(this.props.monsters)
 
     return (
       <>
